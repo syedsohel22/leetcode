@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/syedsohel22/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/syedsohel22/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/syedsohel22/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/syedsohel22/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
