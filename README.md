@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/syedsohel22/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/syedsohel22/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/syedsohel22/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/syedsohel22/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/syedsohel22/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/syedsohel22/leetcode/tree/master/0242-valid-anagram) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/syedsohel22/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/syedsohel22/leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/syedsohel22/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
