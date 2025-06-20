@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/syedsohel22/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/syedsohel22/leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/syedsohel22/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/syedsohel22/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0088-merge-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/syedsohel22/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Stack
