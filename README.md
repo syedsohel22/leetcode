@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/syedsohel22/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/syedsohel22/leetcode/tree/master/0242-valid-anagram) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/syedsohel22/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3617-find-the-original-typed-string-i](https://github.com/syedsohel22/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
 | ------- |
