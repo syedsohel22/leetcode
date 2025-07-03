@@ -4,10 +4,9 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-
-if(s.length!==t.length){
+    if(s.length!==t.length){
     return false
-}
+    }
 
     let obj = {}
     for(let i=0;i<s.length;i++){
@@ -18,13 +17,13 @@ if(s.length!==t.length){
         }
     }
 
-for(char of t){
-if(!obj[char]){
-    return false
-}else{
-    obj[char]--
-}
-}
+    for(char of t){
+        if(!obj[char]){
+            return false
+        }else{
+            obj[char]--
+        }
+    }
 
-return true
+    return true
 };
