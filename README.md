@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/syedsohel22/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/syedsohel22/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/syedsohel22/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/syedsohel22/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/syedsohel22/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/syedsohel22/leetcode/tree/master/0053-maximum-subarray) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syedsohel22/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/syedsohel22/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/syedsohel22/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/syedsohel22/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/syedsohel22/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/syedsohel22/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/syedsohel22/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
