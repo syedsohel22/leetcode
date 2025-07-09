@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/syedsohel22/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/syedsohel22/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/syedsohel22/leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/syedsohel22/leetcode/tree/master/0412-fizz-buzz) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/syedsohel22/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/syedsohel22/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/syedsohel22/leetcode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/syedsohel22/leetcode/tree/master/0412-fizz-buzz) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/syedsohel22/leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/syedsohel22/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
