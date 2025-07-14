@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/syedsohel22/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedsohel22/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/syedsohel22/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/syedsohel22/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/syedsohel22/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/syedsohel22/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/syedsohel22/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/syedsohel22/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/syedsohel22/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/syedsohel22/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/syedsohel22/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/syedsohel22/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/syedsohel22/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/syedsohel22/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/syedsohel22/leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/syedsohel22/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/syedsohel22/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/syedsohel22/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/syedsohel22/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedsohel22/leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/syedsohel22/leetcode/tree/master/0179-largest-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/syedsohel22/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/syedsohel22/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
