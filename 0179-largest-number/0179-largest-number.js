@@ -3,15 +3,15 @@
  * @return {string}
  */
 var largestNumber = function(nums) {
-    let strNums = nums.map((el)=> String(el))
+    let strNums = nums.map((el) => String(el));
 
-    strNums.sort((a,b) =>{
-        return (b+a)-  (a+b)
-    } )
+    strNums.sort((a, b) => {
+        return (b + a) - (a + b);
+    });
 
-    if(strNums[0]==="0"){
-        return "0"
+    if (strNums[0] === "0") {
+        return "0";
     }
 
-    return strNums.join("")
+    return strNums.join("");
 };
