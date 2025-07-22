@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/syedsohel22/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/syedsohel22/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/syedsohel22/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/syedsohel22/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/syedsohel22/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/syedsohel22/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/syedsohel22/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
