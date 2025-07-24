@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/syedsohel22/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/syedsohel22/leetcode/tree/master/0647-palindromic-substrings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/syedsohel22/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/syedsohel22/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/syedsohel22/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/syedsohel22/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/syedsohel22/leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/syedsohel22/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedsohel22/leetcode/tree/master/0042-trapping-rain-water) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/syedsohel22/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedsohel22/leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/syedsohel22/leetcode/tree/master/0179-largest-number) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/syedsohel22/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/syedsohel22/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/syedsohel22/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
