@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/syedsohel22/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/syedsohel22/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/syedsohel22/leetcode/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/syedsohel22/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedsohel22/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/syedsohel22/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/syedsohel22/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedsohel22/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/syedsohel22/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedsohel22/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0883-car-fleet](https://github.com/syedsohel22/leetcode/tree/master/0883-car-fleet) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/syedsohel22/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/syedsohel22/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/syedsohel22/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0883-car-fleet](https://github.com/syedsohel22/leetcode/tree/master/0883-car-fleet) |
 ## Math
 |  |
