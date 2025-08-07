@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/syedsohel22/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/syedsohel22/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/syedsohel22/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/syedsohel22/leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/syedsohel22/leetcode/tree/master/0883-car-fleet) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/syedsohel22/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/syedsohel22/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/syedsohel22/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/syedsohel22/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedsohel22/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/syedsohel22/leetcode/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/syedsohel22/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
