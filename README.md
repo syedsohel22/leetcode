@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/syedsohel22/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedsohel22/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/syedsohel22/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/syedsohel22/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedsohel22/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/syedsohel22/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/syedsohel22/leetcode/tree/master/0647-palindromic-substrings) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/syedsohel22/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/syedsohel22/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/syedsohel22/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/syedsohel22/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedsohel22/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/syedsohel22/leetcode/tree/master/0412-fizz-buzz) |
 ## Bucket Sort
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/syedsohel22/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/syedsohel22/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
