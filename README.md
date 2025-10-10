@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/syedsohel22/leetcode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/syedsohel22/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedsohel22/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/syedsohel22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/syedsohel22/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/syedsohel22/leetcode/tree/master/0647-palindromic-substrings) |
 ## Sorting
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/syedsohel22/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedsohel22/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedsohel22/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/syedsohel22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0883-car-fleet](https://github.com/syedsohel22/leetcode/tree/master/0883-car-fleet) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/syedsohel22/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
@@ -281,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/syedsohel22/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/syedsohel22/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/syedsohel22/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/syedsohel22/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/syedsohel22/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/syedsohel22/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/syedsohel22/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/syedsohel22/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
