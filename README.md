@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/syedsohel22/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedsohel22/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedsohel22/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/syedsohel22/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/syedsohel22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0883-car-fleet](https://github.com/syedsohel22/leetcode/tree/master/0883-car-fleet) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/syedsohel22/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -315,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/syedsohel22/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/syedsohel22/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/syedsohel22/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
