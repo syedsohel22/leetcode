@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/syedsohel22/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/syedsohel22/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/syedsohel22/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/syedsohel22/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/syedsohel22/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/syedsohel22/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/syedsohel22/leetcode/tree/master/0242-valid-anagram) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/syedsohel22/leetcode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/syedsohel22/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedsohel22/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/syedsohel22/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/syedsohel22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/syedsohel22/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/syedsohel22/leetcode/tree/master/0647-palindromic-substrings) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/syedsohel22/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/syedsohel22/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedsohel22/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/syedsohel22/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/syedsohel22/leetcode/tree/master/0412-fizz-buzz) |
 ## Bucket Sort
 |  |
