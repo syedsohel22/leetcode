@@ -13,4 +13,5 @@ class Solution:
             else:
                 prev.next = prev.next.next
       
+        
         return tmp.next
