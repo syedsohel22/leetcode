@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/syedsohel22/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/syedsohel22/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/syedsohel22/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/syedsohel22/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/syedsohel22/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/syedsohel22/leetcode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/syedsohel22/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/syedsohel22/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/syedsohel22/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/syedsohel22/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/syedsohel22/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/syedsohel22/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/syedsohel22/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/syedsohel22/leetcode/tree/master/0567-permutation-in-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/syedsohel22/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedsohel22/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/syedsohel22/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/syedsohel22/leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/syedsohel22/leetcode/tree/master/0647-palindromic-substrings) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/syedsohel22/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sliding Window
